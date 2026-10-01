@@ -1,0 +1,39 @@
+# Forgejo CI for terva-sh/design. The steps match `just ci`: gofmt, vet, and
+# the tests. The tests hold dist/ to tokens.json, so a token change that was
+# not regenerated fails here. The commands are inline because the container
+# does not install just. When a gate changes in the justfile, change it here.
+#
+# Checkout comes from the Actions-Mirrors org, and Go from the internal
+# registry's golang image, as in the other terva-sh repositories.
+name: ci
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    name: Lint and Test
+    runs-on: docker
+    container:
+      image: container.local.sothr.com/library/golang:1.27-alpine
+    steps:
+      - name: Install dependencies
+        # git for the checkout. gcc and musl-dev are cgo, which -race needs.
+        run: apk add --no-cache git gcc musl-dev
+
+      - name: Checkout Code
+        uses: Actions-Mirrors/forgejo-actions-checkout@v6
+
+      - name: gofmt check
+        run: test -z "$(gofmt -l . | tee /dev/stderr)"
+
+      - name: go vet
+        run: go vet ./...
+
+      - name: go test (race)
+        run: go test -race ./...

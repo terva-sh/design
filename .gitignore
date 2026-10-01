@@ -1,0 +1,2 @@
+# `go build ./cmd/design-tokens` with no -o drops the binary at the root.
+/design-tokens
