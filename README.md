@@ -1,7 +1,7 @@
 # terva-sh design
 
 The shared design foundation for the terva-sh web applications: terva's
-control panel and Stage, lampi, ketju, and git-ticket-canvas.
+control panel and Stage, lampi, ketju, git-ticket-canvas, and Dayroom.
 
 Every app shares one foundation, and each keeps its own accent. The
 foundation is the grounds, the text, the lines, the status colours, and the
@@ -84,3 +84,9 @@ A server with no frontend build can serve `design.CSS("lampi")` instead.
 
 To add an app, add its accent under `accents`. The contrast test checks it in
 both schemes.
+
+## Dayroom
+
+Dayroom uses pine on Birch and a softer mint on Tar. The
+[accent comparison](docs/dayroom-accent.md) records the candidates, contrast,
+and samples. Export its preset with `-app dayroom`.
