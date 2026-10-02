@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720" role="img" aria-labelledby="title desc">
+<title id="title">Vuoro accent review: blue, violet, and teal on Birch and Tar</title>
+<desc id="desc">Current blue and two alternatives. Each sample shows an active Changes tab, review link, primary action, and an outlined draft finding. Violet was selected by the owner.</desc>
+<g transform="translate(0,0)" font-family="ui-sans-serif, system-ui, sans-serif">
+<rect width="360" height="360" fill="#FBF8F2"/>
+<rect x="16" y="16" width="328" height="328" rx="12" fill="#F2EDE2" stroke="#DED6C5"/>
+<text x="32" y="44" font-size="12" fill="#6B6355">LIGHT / Blue · former</text>
+<text x="32" y="84" font-size="24" font-weight="700" fill="#2A63C0">vuoro</text>
+<text x="32" y="113" font-size="15" fill="#0F0E0C">Review a change</text>
+<text x="32" y="145" font-size="13" fill="#6B6355">Overview</text>
+<text x="116" y="145" font-size="13" font-weight="600" fill="#2A63C0">Changes</text>
+<text x="206" y="145" font-size="13" fill="#6B6355">Review</text>
+<path d="M32 157H328" stroke="#DED6C5"/><path d="M110 157H181" stroke="#2A63C0" stroke-width="2"/>
+<text x="32" y="183" font-size="13" fill="#2A63C0" text-decoration="underline">server/guard.go</text>
+<rect x="32" y="204" width="296" height="58" rx="8" fill="#FFFFFF" stroke="#DED6C5"/>
+<path d="M33 211V255" stroke="#2A63C0" stroke-width="3"/>
+<text x="46" y="227" font-size="12" fill="#2A63C0">Drafted · needs your review</text>
+<text x="46" y="248" font-size="13" fill="#1C1A16">Check the request origin</text>
+<rect x="32" y="280" width="134" height="36" rx="6" fill="#2A63C0"/>
+<text x="46" y="303" font-size="13" fill="#FFFFFF">Start a review</text>
+<rect x="178" y="280" width="134" height="36" rx="6" fill="#1F4E99"/>
+<text x="192" y="303" font-size="13" fill="#FFFFFF">Hover state</text>
+</g>
+<g transform="translate(360,0)" font-family="ui-sans-serif, system-ui, sans-serif">
+<rect width="360" height="360" fill="#FBF8F2"/>
+<rect x="16" y="16" width="328" height="328" rx="12" fill="#F2EDE2" stroke="#DED6C5"/>
+<text x="32" y="44" font-size="12" fill="#6B6355">LIGHT / Violet · selected</text>
+<text x="32" y="84" font-size="24" font-weight="700" fill="#7546A4">vuoro</text>
+<text x="32" y="113" font-size="15" fill="#0F0E0C">Review a change</text>
+<text x="32" y="145" font-size="13" fill="#6B6355">Overview</text>
+<text x="116" y="145" font-size="13" font-weight="600" fill="#7546A4">Changes</text>
+<text x="206" y="145" font-size="13" fill="#6B6355">Review</text>
+<path d="M32 157H328" stroke="#DED6C5"/><path d="M110 157H181" stroke="#7546A4" stroke-width="2"/>
+<text x="32" y="183" font-size="13" fill="#7546A4" text-decoration="underline">server/guard.go</text>
+<rect x="32" y="204" width="296" height="58" rx="8" fill="#FFFFFF" stroke="#DED6C5"/>
+<path d="M33 211V255" stroke="#7546A4" stroke-width="3"/>
+<text x="46" y="227" font-size="12" fill="#7546A4">Drafted · needs your review</text>
+<text x="46" y="248" font-size="13" fill="#1C1A16">Check the request origin</text>
+<rect x="32" y="280" width="134" height="36" rx="6" fill="#7546A4"/>
+<text x="46" y="303" font-size="13" fill="#FFFFFF">Start a review</text>
+<rect x="178" y="280" width="134" height="36" rx="6" fill="#603588"/>
+<text x="192" y="303" font-size="13" fill="#FFFFFF">Hover state</text>
+</g>
+<g transform="translate(720,0)" font-family="ui-sans-serif, system-ui, sans-serif">
+<rect width="360" height="360" fill="#FBF8F2"/>
+<rect x="16" y="16" width="328" height="328" rx="12" fill="#F2EDE2" stroke="#DED6C5"/>
+<text x="32" y="44" font-size="12" fill="#6B6355">LIGHT / Teal · alternative</text>
+<text x="32" y="84" font-size="24" font-weight="700" fill="#176B74">vuoro</text>
+<text x="32" y="113" font-size="15" fill="#0F0E0C">Review a change</text>
+<text x="32" y="145" font-size="13" fill="#6B6355">Overview</text>
+<text x="116" y="145" font-size="13" font-weight="600" fill="#176B74">Changes</text>
+<text x="206" y="145" font-size="13" fill="#6B6355">Review</text>
+<path d="M32 157H328" stroke="#DED6C5"/><path d="M110 157H181" stroke="#176B74" stroke-width="2"/>
+<text x="32" y="183" font-size="13" fill="#176B74" text-decoration="underline">server/guard.go</text>
+<rect x="32" y="204" width="296" height="58" rx="8" fill="#FFFFFF" stroke="#DED6C5"/>
+<path d="M33 211V255" stroke="#176B74" stroke-width="3"/>
+<text x="46" y="227" font-size="12" fill="#176B74">Drafted · needs your review</text>
+<text x="46" y="248" font-size="13" fill="#1C1A16">Check the request origin</text>
+<rect x="32" y="280" width="134" height="36" rx="6" fill="#176B74"/>
+<text x="46" y="303" font-size="13" fill="#FFFFFF">Start a review</text>
+<rect x="178" y="280" width="134" height="36" rx="6" fill="#10545C"/>
+<text x="192" y="303" font-size="13" fill="#FFFFFF">Hover state</text>
+</g>
+<g transform="translate(0,360)" font-family="ui-sans-serif, system-ui, sans-serif">
+<rect width="360" height="360" fill="#0A0A09"/>
+<rect x="16" y="16" width="328" height="328" rx="12" fill="#151412" stroke="#2C2A25"/>
+<text x="32" y="44" font-size="12" fill="#9A9384">DARK / Blue · former</text>
+<text x="32" y="84" font-size="24" font-weight="700" fill="#6AA3F0">vuoro</text>
+<text x="32" y="113" font-size="15" fill="#F5F1E8">Review a change</text>
+<text x="32" y="145" font-size="13" fill="#9A9384">Overview</text>
+<text x="116" y="145" font-size="13" font-weight="600" fill="#6AA3F0">Changes</text>
+<text x="206" y="145" font-size="13" fill="#9A9384">Review</text>
+<path d="M32 157H328" stroke="#2C2A25"/><path d="M110 157H181" stroke="#6AA3F0" stroke-width="2"/>
+<text x="32" y="183" font-size="13" fill="#6AA3F0" text-decoration="underline">server/guard.go</text>
+<rect x="32" y="204" width="296" height="58" rx="8" fill="#1E1C18" stroke="#2C2A25"/>
+<path d="M33 211V255" stroke="#6AA3F0" stroke-width="3"/>
+<text x="46" y="227" font-size="12" fill="#6AA3F0">Drafted · needs your review</text>
+<text x="46" y="248" font-size="13" fill="#DCD6C9">Check the request origin</text>
+<rect x="32" y="280" width="134" height="36" rx="6" fill="#6AA3F0"/>
+<text x="46" y="303" font-size="13" fill="#0E1520">Start a review</text>
+<rect x="178" y="280" width="134" height="36" rx="6" fill="#94BDF5"/>
+<text x="192" y="303" font-size="13" fill="#0E1520">Hover state</text>
+</g>
+<g transform="translate(360,360)" font-family="ui-sans-serif, system-ui, sans-serif">
+<rect width="360" height="360" fill="#0A0A09"/>
+<rect x="16" y="16" width="328" height="328" rx="12" fill="#151412" stroke="#2C2A25"/>
+<text x="32" y="44" font-size="12" fill="#9A9384">DARK / Violet · selected</text>
+<text x="32" y="84" font-size="24" font-weight="700" fill="#B89AE3">vuoro</text>
+<text x="32" y="113" font-size="15" fill="#F5F1E8">Review a change</text>
+<text x="32" y="145" font-size="13" fill="#9A9384">Overview</text>
+<text x="116" y="145" font-size="13" font-weight="600" fill="#B89AE3">Changes</text>
+<text x="206" y="145" font-size="13" fill="#9A9384">Review</text>
+<path d="M32 157H328" stroke="#2C2A25"/><path d="M110 157H181" stroke="#B89AE3" stroke-width="2"/>
+<text x="32" y="183" font-size="13" fill="#B89AE3" text-decoration="underline">server/guard.go</text>
+<rect x="32" y="204" width="296" height="58" rx="8" fill="#1E1C18" stroke="#2C2A25"/>
+<path d="M33 211V255" stroke="#B89AE3" stroke-width="3"/>
+<text x="46" y="227" font-size="12" fill="#B89AE3">Drafted · needs your review</text>
+<text x="46" y="248" font-size="13" fill="#DCD6C9">Check the request origin</text>
+<rect x="32" y="280" width="134" height="36" rx="6" fill="#B89AE3"/>
+<text x="46" y="303" font-size="13" fill="#20122F">Start a review</text>
+<rect x="178" y="280" width="134" height="36" rx="6" fill="#D0B5F2"/>
+<text x="192" y="303" font-size="13" fill="#20122F">Hover state</text>
+</g>
+<g transform="translate(720,360)" font-family="ui-sans-serif, system-ui, sans-serif">
+<rect width="360" height="360" fill="#0A0A09"/>
+<rect x="16" y="16" width="328" height="328" rx="12" fill="#151412" stroke="#2C2A25"/>
+<text x="32" y="44" font-size="12" fill="#9A9384">DARK / Teal · alternative</text>
+<text x="32" y="84" font-size="24" font-weight="700" fill="#79C5CE">vuoro</text>
+<text x="32" y="113" font-size="15" fill="#F5F1E8">Review a change</text>
+<text x="32" y="145" font-size="13" fill="#9A9384">Overview</text>
+<text x="116" y="145" font-size="13" font-weight="600" fill="#79C5CE">Changes</text>
+<text x="206" y="145" font-size="13" fill="#9A9384">Review</text>
+<path d="M32 157H328" stroke="#2C2A25"/><path d="M110 157H181" stroke="#79C5CE" stroke-width="2"/>
+<text x="32" y="183" font-size="13" fill="#79C5CE" text-decoration="underline">server/guard.go</text>
+<rect x="32" y="204" width="296" height="58" rx="8" fill="#1E1C18" stroke="#2C2A25"/>
+<path d="M33 211V255" stroke="#79C5CE" stroke-width="3"/>
+<text x="46" y="227" font-size="12" fill="#79C5CE">Drafted · needs your review</text>
+<text x="46" y="248" font-size="13" fill="#DCD6C9">Check the request origin</text>
+<rect x="32" y="280" width="134" height="36" rx="6" fill="#79C5CE"/>
+<text x="46" y="303" font-size="13" fill="#10262A">Start a review</text>
+<rect x="178" y="280" width="134" height="36" rx="6" fill="#A0DCE3"/>
+<text x="192" y="303" font-size="13" fill="#10262A">Hover state</text>
+</g>
+</svg>

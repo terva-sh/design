@@ -1,7 +1,7 @@
 # terva-sh design
 
 The shared design foundation for the terva-sh web applications: terva's
-control panel and Stage, lampi, ketju, git-ticket-canvas, and Dayroom.
+control panel and Stage, lampi, ketju, git-ticket-canvas, Dayroom, and vuoro.
 
 Every app shares one foundation, and each keeps its own accent. The
 foundation is the grounds, the text, the lines, the status colours, and the
@@ -90,3 +90,10 @@ both schemes.
 Dayroom uses pine on Birch and a softer mint on Tar. The
 [accent comparison](docs/dayroom-accent.md) records the candidates, contrast,
 and samples. Export its preset with `-app dayroom`.
+
+## Vuoro
+
+Vuoro uses violet on Birch and a softer lavender on Tar. Its
+[accent review](docs/vuoro-accent.md) records the chosen colors, contrast,
+and comparisons with the former blue stand-in and teal. Export its preset
+with `-app vuoro`.
